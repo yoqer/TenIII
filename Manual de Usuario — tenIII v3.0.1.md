@@ -45,10 +45,10 @@ pip install tenIII[packaging]        # USB portátil
 
 ```bash
 # Descargar desde terminator.com.es
-wget https://terminator.com.es/downloads/tenIII-3.0.1.tar.gz
+wget https://terminator.com.es
 
 # Instalar
-pip install tenIII-3.0.1.tar.gz
+pip install tenIII-3.0.2.tar.gz
 ```
 
 ### Verificar instalación
@@ -881,10 +881,10 @@ audio = engine.generate_with_voice("¿Hola?")
 
 ## Soporte y Comunidad
 
-- **Documentación:** https://terminator.com.es/docs
+- **Documentación:** https://terminator.com.es/
 - **GitHub:** https://github.com/yoqer/tenIII
 - **Issues:** https://github.com/yoqer/tenIII/issues
-- **Email:** support@terminator.com.es
+- **Email:** AI@terminator.com.es
 
 ---
 
