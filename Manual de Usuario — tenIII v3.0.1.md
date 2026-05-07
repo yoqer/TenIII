@@ -45,7 +45,7 @@ pip install tenIII[packaging]        # USB portátil
 
 ```bash
 # Descargar desde terminator.com.es
-wget https://terminator.com.es
+wget http://terminator.com.es
 
 # Instalar
 pip install tenIII-3.0.2.tar.gz
