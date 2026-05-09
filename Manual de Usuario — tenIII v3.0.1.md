@@ -1,4 +1,4 @@
-# Manual de Usuario — tenIII v3.0.1
+# Manual de Usuario — Ten III v3.0.1
 ## Framework Avanzado de Entrenamiento de Deep Learning
 ### Ecosistema Gotham City
 
