@@ -881,7 +881,7 @@ audio = engine.generate_with_voice("¿Hola?")
 
 ## Soporte y Comunidad
 
-- **Documentación:** https://terminator.com.es/
+- **Documentación:** http://terminator.com.es
 - **GitHub:** https://github.com/yoqer/tenIII
 - **Issues:** https://github.com/yoqer/tenIII/issues
 - **Email:** AI@terminator.com.es
