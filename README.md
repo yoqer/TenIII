@@ -1,4 +1,4 @@
-# TenIII
+# Ten III
 
 
 Wellcome to you new AGI!
