@@ -1,7 +1,7 @@
 # TenIII
 
 
-Wellcome you AGI!
+Wellcome to you new AGI!
 
 
     Ten III
