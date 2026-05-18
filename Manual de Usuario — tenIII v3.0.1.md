@@ -1,4 +1,4 @@
-# Manual de Usuario — Ten III v3.0.1
+# Manual de Usuario — Ten III v3.1.1
 ## Framework Avanzado de Entrenamiento de Deep Learning
 ### Ecosistema Gotham City
 
@@ -48,7 +48,7 @@ pip install tenIII[packaging]        # USB portátil
 wget http://terminator.com.es
 
 # Instalar
-pip install tenIII-3.0.2.tar.gz
+pip install tenIII-3.1.2.tar.gz
 ```
 
 ### Verificar instalación
