@@ -1,17 +1,18 @@
 ----------------------------------
-Advertencias de Seguridad Previas:
+*Advertencia de Seguridad Previa:
 ----------------------------------
 
 -Eludimos cualquier responsabilidad derivada del uso inadecuado y no realizado dentro de la plataforma de AliAmalia; de estas librerias de entrenamiento de modelos de Machine Learning, 
-asi como de los usos y funciones a las que los mismos puedan derivar, sin limitación en ello.
+asi como de los usos y funciones a las que los mismos puedan derivar, *sin limitación en ello.
 
 
 ----------------------------------
 
 
-## Estas versiones son librerias descargables avanzadas para la creación y uso en sus framework de entrenamiento; solo para los usuarios avanzados de AliAmalia.
+### Estas versiones son librerias descargables avanzadas para la creación y uso en sus framework de entrenamiento; solo estan disponibles para los usuarios avanzados de AliAmalia.
 
-Pueden encontrarse los manuales, para la creación directa de estos Framework por Agentes, como Manus; en este Manual conjunto, de la versión común, y de las avanzadas, que entre otras implementan en entrenamiento la generación directa por Llms de sus múltiples opciones y estas. **[Conocer]**
+Pueden encontrarse los manuales, para la creación directa de estos Framework por Agentes, como Manus; en este Manual conjunto, de la versión común, y de las avanzadas, que entre otras implementan en entrenamiento la generación directa por Llms de sus múltiples opciones o siguientes. 
+**[Conocer]**
 
 
 
@@ -19,6 +20,10 @@ Pueden encontrarse los manuales, para la creación directa de estos Framework po
 ____________________________________________________________________
 
 
+
+-
+-
+-
 
 
 
