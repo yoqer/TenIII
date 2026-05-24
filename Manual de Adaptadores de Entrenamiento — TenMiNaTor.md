@@ -1,3 +1,10 @@
+----------------------------------
+
+## Estas versiones son solo librerias descargables avanzadas para la creación de framework de entrenamiento, para los usuarios avanzados de AliAmalia.
+
+Pueden encontrarse los manuales, para la creación directa de estos Framework por Agentes, como Manus; en este Manual conjunto, de la versión común, y las avanzadas, que entre otras implementan en entrenamiento la generación directa por Llms de sus múltiples opciones. **[Conocer]**
+
+
 # Manual de Adaptadores de Entrenamiento — TenMiNaTor
 
 **Versión:** 3.1.3 (tenIII) / 3.2 (tenIII-II)  
