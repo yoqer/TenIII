@@ -65,7 +65,7 @@ adapter.efficiency_ratio()
 adapter.summary()
 ```
 
-Esta uniformidad permite que cualquier framework externo intercambie adaptadores sin modificar su código de entrenamiento.
+***Esta uniformidad permite que cualquier framework externo intercambie adaptadores sin modificar su código de entrenamiento.***
 
 ---
 
