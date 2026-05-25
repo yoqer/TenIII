@@ -12,7 +12,7 @@ asi como de los usos y funciones a las que los mismos puedan derivar, *sin limit
 ### Estas versiones son librerias descargables avanzadas para la creación y uso en sus framework de entrenamiento; solo estan disponibles para los usuarios de AliAmalia.
 
 Pueden encontrarse los manuales, para la creación directa de estos Framework por Agentes, como Manus; en este Manual conjunto, de la versión común, y de las avanzadas, que entre otras implementan en entrenamiento la generación directa por Llms de sus múltiples opciones, compatibilidad en sistemas locales x32 o estas.  
-**[Conocer]**
+**[Conocer](https://github.com/yoqer/TenIII/blob/main/Manual%20Unificado%20de%20Framework%20de%20Entrenamiento%20%E2%80%94%20TenMiNaTor.md)**
 
 
 
