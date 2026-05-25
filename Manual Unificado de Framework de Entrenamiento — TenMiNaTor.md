@@ -1,4 +1,4 @@
-# Manual Unificado de Framework de Entrenamiento — TenMiNaTor
+# Manual Unificado de Framework de Entrenamiento — TenMiNaTor 2 y 3.
 
 **Versión:** tenIII v3.1.3 / tenIII-II v3.2  
 **Autor:** Gotham City AI Lab  
